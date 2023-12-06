@@ -12,4 +12,4 @@ pip install -r requirements.txt
 ```
 4.  Run the project
 ```
-python sensor_app.py
+flask run
